@@ -1,4 +1,3 @@
-[README(1).md](https://github.com/user-attachments/files/35001418/README.1.md)
 <p align="center">
   <img src="assets/minto-cover.png" alt="Minto — Big ideas. Small daily wins. A mint-and-charcoal illustration of flashcards and connected ideas." width="100%">
 </p>
